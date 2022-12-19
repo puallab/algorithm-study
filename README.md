@@ -14,3 +14,16 @@
    - 다음주 개념과 이번주 문제 풀이 공유
 
 ## 문제
+ <details> <summary> 1주차 완전탐색 </summary> 
+
+ - [퇴사](https://www.acmicpc.net/problem/14501)
+ - [N과 M (순열)](https://www.acmicpc.net/problem/15654)
+ - [N과 M (조합)](https://www.acmicpc.net/problem/15654)
+ - [N과 M (9)](https://www.acmicpc.net/problem/15663)
+ - [N과 M (10)](https://www.acmicpc.net/problem/15664)
+ - [동전 게임](https://www.acmicpc.net/problem/9079)
+ - [호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)
+ - [종이조각](https://www.acmicpc.net/problem/16637)
+
+ </details> 
+ 
