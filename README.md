@@ -18,7 +18,7 @@
 
  - [퇴사](https://www.acmicpc.net/problem/14501)
  - [N과 M (순열)](https://www.acmicpc.net/problem/15654)
- - [N과 M (조합)](https://www.acmicpc.net/problem/15654)
+ - [N과 M (조합)](https://www.acmicpc.net/problem/15655)
  - [N과 M (9)](https://www.acmicpc.net/problem/15663)
  - [N과 M (10)](https://www.acmicpc.net/problem/15664)
  - [동전 게임](https://www.acmicpc.net/problem/9079)
