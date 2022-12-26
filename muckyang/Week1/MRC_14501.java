@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class MRC_14501 {
-    static int N; // N+1일 까지 근무!
+    static int N; 
     static int[] time;
     static int[] pay;
     static int maxPay;
