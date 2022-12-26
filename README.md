@@ -23,7 +23,7 @@
  - [N과 M (10)](https://www.acmicpc.net/problem/15664)
  - [동전 게임](https://www.acmicpc.net/problem/9079)
  - [호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)
- - [종이조각](https://www.acmicpc.net/problem/16637)
+ - [종이조각](https://www.acmicpc.net/problem/14391)
 
  </details> 
  
