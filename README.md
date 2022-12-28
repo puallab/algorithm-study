@@ -25,5 +25,14 @@
  - [호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)
  - [종이조각](https://www.acmicpc.net/problem/14391)
 
+ </details>
+ <details> <summary> 2주차 완전탐색 + 백트래킹 응용 </summary> 
+
+ - [괄호 추가하기](https://www.acmicpc.net/problem/16637)
+ - [달이 차오른다, 가자](https://www.acmicpc.net/problem/1194)
+ - [짠돌이 호석](https://www.acmicpc.net/problem/21277)
+ - [스티커 붙이기](https://www.acmicpc.net/problem/18808)
+ - [알파 틱택토](https://www.acmicpc.net/problem/16571)
+
  </details> 
  
