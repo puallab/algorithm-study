@@ -1,9 +1,13 @@
+package com.mrcAlgo.Week1;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.*;
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.StringTokenizer;
 
-public class MRC_21278 {
+public class 호석이_두마리_치킨_21278 {
     static int N, M; //건물 // 도로
     static LinkedList<Integer>[] hasRoad;
     static boolean[] visit;
