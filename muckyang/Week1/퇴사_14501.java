@@ -1,10 +1,12 @@
+package com.mrcAlgo.Week1;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class MRC_14501 {
-    static int N; 
+public class 퇴사_14501 {
+    static int N;
     static int[] time;
     static int[] pay;
     static int maxPay;

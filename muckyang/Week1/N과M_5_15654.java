@@ -1,10 +1,13 @@
+package com.mrcAlgo.Week1;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
+
 // N과 M (5)
-public class MRC_15654 {
+public class N과M_5_15654 {
 
     static int N, M;
     static int[] num;
