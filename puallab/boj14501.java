@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main{
+public class boj14501{
     static int n, ans;
     static int[][] arr;
     public static void main(String[] args) throws Exception{

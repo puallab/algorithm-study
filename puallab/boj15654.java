@@ -1,44 +1,43 @@
+import java.util.*;
 import java.io.*;
-import java.util.Arrays;
-import java.util.StringTokenizer;
 
-public class Main{
+public class boj15654{
     static int n, m;
+    static StringBuilder sb = new StringBuilder();
     static int[] arr;
     static boolean[] vis;
-    static StringBuilder sb = new StringBuilder();
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st=  new StringTokenizer(br.readLine());
+        StringTokenizer st = new StringTokenizer(br.readLine());
         n = Integer.parseInt(st.nextToken());
         m = Integer.parseInt(st.nextToken());
 
-        st = new StringTokenizer(br.readLine());
+        
         arr = new int[n];
         vis = new boolean[n];
-        for(int i= 0; i<n; i++){
+        st = new StringTokenizer(br.readLine());
+        for(int i =0; i<n; i++){
             arr[i] = Integer.parseInt(st.nextToken());
         }
         
-        Arrays.sort(arr);
+        Arrays.sort(arr); // 오름차순으로 정렬
+        
         dfs(0, "");
         System.out.println(sb.toString());
-
-    } 
+    }
 
     static void dfs(int picked, String s){
         if(picked == m){
             sb.append(s.trim()+"\n");
             return;
         }
-        int prev = -1;
+
         for(int i =0; i<n; i++){
-            if(vis[i] || arr[i] == prev) continue;
+            if(vis[i]) continue;
             vis[i] = true;
-            prev= arr[i];
-            dfs(picked+1, s + " " + arr[i]);
+            dfs(picked+1, s+arr[i]+" ");
             vis[i] = false;
         }
+        
     }
-
 }
