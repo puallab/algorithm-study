@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Main{
+public class boj15664{
     static int n, m;
     static int[] arr;
     static boolean[] vis;

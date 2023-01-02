@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class Main{
+public class boj9079{
     static int n, ans, cntH;
     static int[][] arr;
     static boolean[] vis;
