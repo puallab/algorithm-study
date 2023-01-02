@@ -5,7 +5,7 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 
-public class Main{
+public class boj21278{
     static int n, m, firstPick, secondPick, ans = Integer.MAX_VALUE;
     static int[][] dist;
     static ArrayList<Integer>[] list;
