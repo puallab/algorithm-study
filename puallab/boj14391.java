@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main{
+public class boj14391{
     static int n, m, ans;
     static int[][] arr;
     static boolean[][] vis;
