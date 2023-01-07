@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/algorithm-study_mrc.iml" filepath="$PROJECT_DIR$/algorithm-study_mrc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/muckyang/muckyang.iml" filepath="$PROJECT_DIR$/muckyang/muckyang.iml" />
-    </modules>
-  </component>
-</project>
