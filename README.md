@@ -36,3 +36,21 @@
 
  </details> 
  
+  <details> <summary> 3주차 BFS + DFS </summary> 
+
+ - [화물차](https://www.acmicpc.net/problem/1400)
+ - [늑대 사냥꾼](https://www.acmicpc.net/problem/2917)
+ - [일요일 아침의 데이트](https://www.acmicpc.net/problem/1445)
+ - [퍼즐](https://www.acmicpc.net/problem/1525)
+ - [다리만들기](https://www.acmicpc.net/problem/2146)
+ - [Baaaaaaaaaduk2 (Easy)](https://www.acmicpc.net/problem/16988)
+ 
+ <details> <summary> 3주차 선택문제 </summary> 
+ 
+ - [양구출작전](https://www.acmicpc.net/problem/16437)
+ - [지하철2호선](https://www.acmicpc.net/problem/16947)
+ 
+ </details>
+
+ </details> 
+ 
