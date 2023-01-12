@@ -7,7 +7,7 @@
  
 - 문제 출제 순서
   - 백준 기준 실버2 ~ 골드3,
-  - 완전탐색, 백트래킹, DFS & BFS, 우선순위큐, 투포인터&이분탐색, 유니온파인드, 문자열, 누적합
+  - 완전탐색, 백트래킹, DFS & BFS, 투포인터, 이분탐색, 유니온파인드, 문자열, 누적합
  - 토의시간(참여 가능한 사람만)
    - 매주 월요일 22시
    - 온라인 google meet 
@@ -51,6 +51,22 @@
  - [지하철2호선](https://www.acmicpc.net/problem/16947)
  
  </details>
+
+ </details>
+ <details> <summary> 4주차 투 포인터 </summary> 
+ 
+ - [배열 합치기](https://www.acmicpc.net/problem/11728)
+ - [소금과 후추](https://www.acmicpc.net/problem/14602)
+ - [게으른 백곰](https://www.acmicpc.net/problem/10025)
+ - [두 용액](https://www.acmicpc.net/problem/2470)
+ - [수 고르기](https://www.acmicpc.net/problem/2230)
+ - [다이어트](https://www.acmicpc.net/problem/1484)
+ - [가장 긴 짝수 연속한 부분 수열(large)](https://www.acmicpc.net/problem/22862)
+ - [좋다](https://www.acmicpc.net/problem/1253)
+ - [회전초밥](https://www.acmicpc.net/problem/15961)
+ - [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)
+ - [ㅋㅋ루ㅋㅋ](https://www.acmicpc.net/problem/20442)
+ - [합이 0인 네 정수](https://www.acmicpc.net/problem/7453)
 
  </details> 
  
