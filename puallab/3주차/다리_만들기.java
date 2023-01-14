@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main{
+public class 다리_{
 	static class Pair{
 		int y, x, cnt;
 		public Pair(int yy , int xx){
