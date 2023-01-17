@@ -56,11 +56,9 @@
  <details> <summary> 4주차 투 포인터 </summary> 
  
  - [배열 합치기](https://www.acmicpc.net/problem/11728)
- - [소금과 후추](https://www.acmicpc.net/problem/14602)
  - [게으른 백곰](https://www.acmicpc.net/problem/10025)
  - [두 용액](https://www.acmicpc.net/problem/2470)
  - [수 고르기](https://www.acmicpc.net/problem/2230)
- - [다이어트](https://www.acmicpc.net/problem/1484)
  - [가장 긴 짝수 연속한 부분 수열(large)](https://www.acmicpc.net/problem/22862)
  - [좋다](https://www.acmicpc.net/problem/1253)
  - [회전초밥](https://www.acmicpc.net/problem/15961)
