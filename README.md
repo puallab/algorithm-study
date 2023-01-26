@@ -68,3 +68,16 @@
 
  </details> 
  
+ <details> <summary> 5주차 이분탐색 </summary> 
+ 
+ - [정수 제곱근](https://www.acmicpc.net/problem/2417)
+ - [선분 위의 점](https://www.acmicpc.net/problem/11663)
+ - [나무 자르기](https://www.acmicpc.net/problem/2805)
+ - [랜선 자르기](https://www.acmicpc.net/problem/1654)
+ - [입국심사](https://www.acmicpc.net/problem/3079)
+ - [공유기 설치](https://www.acmicpc.net/problem/2110)
+ - [구간 나누기2](https://www.acmicpc.net/problem/13397)
+ - [사냥꾼](https://www.acmicpc.net/problem/8983)
+
+ </details> 
+ 
