@@ -56,17 +56,28 @@
  <details> <summary> 4주차 투 포인터 </summary> 
  
  - [배열 합치기](https://www.acmicpc.net/problem/11728)
- - [소금과 후추](https://www.acmicpc.net/problem/14602)
  - [게으른 백곰](https://www.acmicpc.net/problem/10025)
  - [두 용액](https://www.acmicpc.net/problem/2470)
  - [수 고르기](https://www.acmicpc.net/problem/2230)
- - [다이어트](https://www.acmicpc.net/problem/1484)
  - [가장 긴 짝수 연속한 부분 수열(large)](https://www.acmicpc.net/problem/22862)
  - [좋다](https://www.acmicpc.net/problem/1253)
  - [회전초밥](https://www.acmicpc.net/problem/15961)
  - [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)
  - [ㅋㅋ루ㅋㅋ](https://www.acmicpc.net/problem/20442)
  - [합이 0인 네 정수](https://www.acmicpc.net/problem/7453)
+
+ </details> 
+ 
+ <details> <summary> 5주차 이분탐색 </summary> 
+ 
+ - [정수 제곱근](https://www.acmicpc.net/problem/2417)
+ - [선분 위의 점](https://www.acmicpc.net/problem/11663)
+ - [나무 자르기](https://www.acmicpc.net/problem/2805)
+ - [랜선 자르기](https://www.acmicpc.net/problem/1654)
+ - [입국심사](https://www.acmicpc.net/problem/3079)
+ - [공유기 설치](https://www.acmicpc.net/problem/2110)
+ - [구간 나누기2](https://www.acmicpc.net/problem/13397)
+ - [사냥꾼](https://www.acmicpc.net/problem/8983)
 
  </details> 
  
