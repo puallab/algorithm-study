@@ -93,3 +93,15 @@
 
  </details> 
  
+ <details> <summary> 7주차 누적합(구간합)</summary> 
+ 
+ - [2차원 배열의 합](https://www.acmicpc.net/problem/2167)
+ - [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
+ - [점수따먹기](https://www.acmicpc.net/problem/1749)
+ - [나머지 합](https://www.acmicpc.net/problem/10986)
+ - [두 배열의 합](https://www.acmicpc.net/problem/2143)
+ - [피자판매](https://www.acmicpc.net/problem/2632)
+ - [색종이 - 3](https://www.acmicpc.net/problem/2571)
+
+ </details> 
+ 
