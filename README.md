@@ -81,3 +81,15 @@
 
  </details> 
  
+ <details> <summary> 6주차 분리 집합 </summary> 
+ 
+ - [집합의 표현](https://www.acmicpc.net/problem/1717)
+ - [친구비](https://www.acmicpc.net/problem/16562)
+ - [친구 네트워크](https://www.acmicpc.net/problem/4195)
+ - [공항](https://www.acmicpc.net/problem/10775)
+ - [통신망 분할](https://www.acmicpc.net/problem/17398)
+ - [문명](https://www.acmicpc.net/problem/14868)
+ - [교수님은 기다리지 않는다](https://www.acmicpc.net/problem/3830)
+
+ </details> 
+ 
