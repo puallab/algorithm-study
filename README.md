@@ -105,3 +105,19 @@
 
  </details> 
  
+ <details> <summary> 8주차 세그먼트 트리</summary> 
+ 
+ - [구간 합 구하기](https://www.acmicpc.net/problem/2042)
+ - [구간 곱 구하기](https://www.acmicpc.net/problem/11505)
+ - [사탕상자](https://www.acmicpc.net/problem/2243)
+
+ </details> 
+ 
+ <details> <summary> 9주차 세그먼트 트리 심화</summary> 
+ 
+ - [영화 수집](https://www.acmicpc.net/problem/3653)
+ - [나무 심기](https://www.acmicpc.net/problem/1280)
+ - [중앙값 측정](https://www.acmicpc.net/problem/9426)
+
+ </details> 
+ 
