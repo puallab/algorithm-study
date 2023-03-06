@@ -65,8 +65,6 @@ public class 나무심기_1280 {
         list = new long[200000];
         SegTree distTree = new SegTree(200000, list);
         SegTree cntTree = new SegTree(200000, list);
-        for (int i = 0; i < 200000; i++)
-            distTree.update(i, i);
 
         long res = 1;
         for (int i = 0; i < N; i++) {
@@ -83,6 +81,7 @@ public class 나무심기_1280 {
             System.out.println(iToMax);
 
             System.out.println(res);
+            distTree.update(idx, idx);
             cntTree.update(idx, 1);
             if (i == 0) {
                 continue;
