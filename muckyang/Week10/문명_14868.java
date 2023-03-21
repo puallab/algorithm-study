@@ -12,9 +12,8 @@ public class 문명_14868 {
     static int[] grp;
     static Queue<Point> q;
 
-    static int[] dy = { 0, 1, 0, -1 };
-    static int[] dx = { 1, 0, -1, 0 };
-
+    static int[] dy = {0, 1, 0, -1};
+    static int[] dx = {1, 0, -1, 0};
     static int mergeCnt, time;
 
     public static class Point {
