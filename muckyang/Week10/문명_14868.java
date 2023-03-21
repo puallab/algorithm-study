@@ -1,8 +1,4 @@
 package com.mrcAlgo.Week10_재도전;
-<<<<<<< HEAD
-
-=======
->>>>>>> 1e8737fb02ad087bf4a0d1f517db67d6ef5b78e9
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -16,14 +12,8 @@ public class 문명_14868 {
     static int[] grp;
     static Queue<Point> q;
 
-<<<<<<< HEAD
     static int[] dy = {0, 1, 0, -1};
     static int[] dx = {1, 0, -1, 0};
-=======
-    static int[] dy = { 0, 1, 0, -1 };
-    static int[] dx = { 1, 0, -1, 0 };
->>>>>>> 1e8737fb02ad087bf4a0d1f517db67d6ef5b78e9
-
     static int mergeCnt, time;
 
     public static class Point {
@@ -91,11 +81,7 @@ public class 문명_14868 {
             for (int d = 0; d < 4; d++) {
                 int ny = dy[d] + p.y;
                 int nx = dx[d] + p.x;
-<<<<<<< HEAD
-                if (ny < 0 || nx < 0 || ny >= N || nx >= N)
-=======
                 if (ny < 0 || nx < 0 || ny >= N || nx >= N )
->>>>>>> 1e8737fb02ad087bf4a0d1f517db67d6ef5b78e9
                     continue;
                 if (map[ny][nx] != 0) {
                     if (find(map[ny][nx]) != find(map[p.y][p.x])) {
