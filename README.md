@@ -7,7 +7,7 @@
  
 - 문제 출제 순서
   - 백준 기준 실버2 ~ 골드3,
-  - 완전탐색, 백트래킹, DFS & BFS, 투포인터, 이분탐색, 유니온파인드, 문자열, 누적합
+  - 완전탐색, 백트래킹, DFS & BFS, 투포인터, 이분탐색, 유니온파인드, 문자열, 누적합, 
  - 토의시간(참여 가능한 사람만)
    - 매주 월요일 22시
    - 온라인 google meet 
@@ -119,6 +119,27 @@
  - [영화 수집](https://www.acmicpc.net/problem/3653)
  - [나무 심기](https://www.acmicpc.net/problem/1280)
  - [중앙값 측정](https://www.acmicpc.net/problem/9426)
+
+ </details>
+ 
+ <details> <summary> 10주차 재도전</summary> 
+ 
+ - [합이 0인 네 정수](https://www.acmicpc.net/problem/7453)
+ - [세 용액](https://www.acmicpc.net/problem/2473)
+ - [문명](https://www.acmicpc.net/problem/14868)
+ - [교수님은 기다리지 않는다](https://www.acmicpc.net/problem/3830)
+ - [피자판매](https://www.acmicpc.net/problem/2632)
+ - [색종이 - 3](https://www.acmicpc.net/problem/2571)
+
+ </details> 
+ 
+ <details> <summary> 11, 12주차 다익스트라</summary> 
+ 
+ - [알고스팟](https://www.acmicpc.net/problem/1261)
+ - [도로포장](https://www.acmicpc.net/problem/1162)
+ - [거의 최단 경로](https://www.acmicpc.net/problem/5719)
+ - [k번째 최단경로 찾기](https://www.acmicpc.net/problem/1854)
+ - [탈옥](https://www.acmicpc.net/problem/9376
 
  </details> 
  
