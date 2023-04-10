@@ -32,6 +32,7 @@ public class Boggle{
             playGame();
             sb.append(score + " " + longest + " " + cnt + "\n");
         }
+        System.out.println(sb.toString());
     }
 
     static void playGame(){
