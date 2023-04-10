@@ -17,7 +17,7 @@ public class Boggle{
         for(int i =0; i<w; i++){
             dict[i] = br.readLine();
         }
-
+        br.readLine();
         b = Integer.parseInt(br.readLine());
         while(b-- > 0){
             score = 0;
@@ -31,28 +31,33 @@ public class Boggle{
 
             playGame();
             sb.append(score + " " + longest + " " + cnt + "\n");
+            br.readLine();
         }
+        System.out.println(sb.toString());
     }
 
     static void playGame(){
 
         for(String s : dict){
             vis = new boolean[4][4];
-            boolean check = false;
-            for(int i =0; i<4; i++){
-                for(int j =0; j<4; j++){
-                    if(s.charAt(0) == board[i][j]){
-                        check = dfs(s, 1, i, j);
-                    }
-                    if(check){
-                        score += getScore(s);
-                        cnt += 1;
-                        longest = getLongest(s);
-                        return;
-                    }
+            findSentence(s);
+        }
+    }
+
+    static void findSentence(String s){
+        boolean check = false;
+        for(int i =0; i<4; i++){
+            for(int j =0; j<4; j++){
+                if(s.charAt(0) == board[i][j]){
+                    check = dfs(s, 1, i, j);
+                }
+                if(check){
+                    score += getScore(s);
+                    cnt += 1;
+                    longest = getLongest(s);
+                    return;
                 }
             }
-
         }
     }
 
