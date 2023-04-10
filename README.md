@@ -143,7 +143,7 @@
 
  </details>
 
- <details> <summary> 13주차 다익스트라</summary> 
+ <details> <summary> 13, 14주차 오마카세</summary> 
  
  - [배열에서 이동](https://www.acmicpc.net/problem/1981)
  - [Boggle](https://www.acmicpc.net/problem/9202)
@@ -154,7 +154,7 @@
 
  </details>
 
- <details> <summary> 14주차 프로그래머스</summary> 
+ <details> <summary> 15주차 프로그래머스</summary> 
  
  - [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
  - [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
