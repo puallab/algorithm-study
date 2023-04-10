@@ -64,6 +64,7 @@ public class KCM_Travel_10217 {
         PriorityQueue<Point> pq = new PriorityQueue<>();
         pq.add(new Point(0, 0, 0));
         while (!pq.isEmpty()) {
+
             Point p = pq.poll();
 
             if (p.to == N - 1) {
