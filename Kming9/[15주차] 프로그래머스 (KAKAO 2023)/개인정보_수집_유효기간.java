@@ -11,7 +11,7 @@ class Solution {
         LocalDate std = curDate.getDayOfMonth() == 28 
              LocalDate.of(curDate.getYear(), curDate.getMonth().plus(1), 1)  curDate.plusDays(1);
 
-        HashMapString, Integer hm = new HashMap();
+        HashMap<String, Integer> hm = new HashMap();
         for(String t  terms) {
             String[] info = t.split( );
             hm.put(info[0], Integer.parseInt(info[1]));
