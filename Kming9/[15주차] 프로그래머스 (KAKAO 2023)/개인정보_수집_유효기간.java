@@ -1,6 +1,6 @@
-import java.util.;
-import java.time.;
-import java.time.format.DateTimeFormatter;
+import java.util.*;
+import java.time.*;
+import java.time.format.*;
 
 class Solution {
     public int[] solution(String today, String[] terms, String[] privacies) {
